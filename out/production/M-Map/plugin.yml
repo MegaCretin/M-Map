@@ -1,0 +1,10 @@
+  name: M-Map
+  main: fr.megacretin.custommap.main
+  version: 1.0
+  author: MegaCretin
+  api-version: 1.16
+
+  commands:
+    map:
+      description: Créer une map avec une image
+      permission: create-map
